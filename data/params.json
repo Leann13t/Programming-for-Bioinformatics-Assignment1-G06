@@ -1,0 +1,12 @@
+{
+  "min_depth": 8,
+  "min_quality": 80,
+  "priority_genes": [
+    "EGFR",
+    "KRAS",
+    "MYC",
+    "CFTR",
+    "PTEN"
+  ],
+  "top_k": 8
+}
