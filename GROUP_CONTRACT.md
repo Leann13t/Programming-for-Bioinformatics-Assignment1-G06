@@ -8,7 +8,7 @@ Complete this file in the first week, commit it, and do not delete the headings.
 
 - Group ID: <for example G07>
 - Member 1: <full name>, <matric number>, <role for the first two weeks>
-- Member 2: <full name>, <matric number>, <role for the first two weeks>
+- Member 2: <ELEANOR TING PIK EN>, <A24CS0247>, <SUMMARY DEVELOPER>
 - Member 3: <full name>, <matric number>, <role for the first two weeks>
 - Member 4: <full name>, <matric number>, <role for the first two weeks>
 
@@ -49,6 +49,6 @@ every member signs the log and this contract.
 ## 8. Signatures
 
 - Signed: <full name>, <matric number>, <date>
-- Signed: <full name>, <matric number>, <date>
+- Signed: <ELEANOR TING PIK EN>, <A24CS0247>, <18/11/2026>
 - Signed: <full name>, <matric number>, <date>
 - Signed: <full name>, <matric number>, <date>
